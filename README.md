@@ -1,4 +1,4 @@
-w<h1 align="center">Hi 👋, I'm Eyad Sharaf Almasri</h1>
+<h1 align="center">Hi 👋, I'm Eyad Sharaf Almasri</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align='right' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='image' width='400' />
 
