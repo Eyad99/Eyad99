@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web Development, React.js, Next.js**
 
-- 📫 How to reach me **iead.sh123@gmail.com**
+- 📫 How to reach me **eyadsharafalmasri@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
